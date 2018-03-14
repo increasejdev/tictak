@@ -1,0 +1,31 @@
+.box {
+    width: 90%;
+    height: 400px;
+    background: #fff;
+    margin: 2em auto;
+    padding: 10px; 
+    position: relative;
+}
+
+.effect1 {
+    -webkit-box-shadow: 10px 10px 6px -6px #777;
+       -moz-box-shadow: 10px 10px 6px -6px #777;
+            box-shadow: 10px 10px 6px -6px #777;
+}
+
+
+section {
+	padding-top: 0;
+	
+}
+.inline {
+	display: inline-block;	
+}
+
+.ibody  {
+	background: #c7b39b url("../images/gw2.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+	}
